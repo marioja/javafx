@@ -7,3 +7,4 @@ get downloaded by doing a maven update on the mfx11 project (no code)
 * mfx11-2 is a maven javaFX 11 sample
 * mfx11boot is a maven javaFX 11 Spring Boot sample
 If you import all projects in eclipse, you will see a number of Java Application and Maven Build run configurations.  You can use these to test run the projects.
+* josh-long-javafx is a maven java 11 Spring Boot sample by Josh Long from Pivotal.  See https://www.youtube.com/watch?v=lPy9mc_O_gU&t=1821s
