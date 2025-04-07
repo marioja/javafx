@@ -29,6 +29,7 @@ public class Main extends Application {
 		System.gc();
 		System.runFinalization();
 	}
+	
 	private Object createControllerForType(Class<?> type) {
 		return this.context.getBean(type);
 	}
